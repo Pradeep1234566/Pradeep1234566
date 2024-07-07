@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pradeep L Pawar</h1>
-<h3 align="center">A passionate Electronics and Communication specialist in my 6th semester at KLE Technological University, Hubli, India. I have a keen interest in working on diverse and challenging projects. My experience includes developing a robust machine learning model for EEG signal classification to detect human emotions, engineering an attention algorithm for saliency detection in 3D point clouds, and designing an automatic sanitizing machine. I am proficient in project management and data analysis, and I thrive on solving complex problems and creating innovative solutions.</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer in India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 

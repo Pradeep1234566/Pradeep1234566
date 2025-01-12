@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="200" src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" />
 </div>
 
 ###

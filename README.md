@@ -9,6 +9,9 @@
   <a href="mailto:pradeeplaxmanraopawar@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" /> 
   </a> 
+  <a href="https://x.com/PradeepPawar007" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter" /> 
+  </a> 
 </div>
 
 <h1 align="center">👋 Hey There, I'm Pradeep! 👨‍💻</h1>
@@ -21,6 +24,12 @@
   - ⚡ Free time? Creating gaming content, personal development, and focusing on fitness.<br> 
   - 🌟 Passionate about innovation and crafting impactful solutions. 
 </p>
+
+<h3 align="left">🌟 Quote of the Day:</h3>
+<div align="center" style="font-size: 18px; font-style: italic; margin: 20px; color: #9C27B0;">
+  <!-- Placeholder for daily quote -->
+  🗨️ *"This space will update daily with an inspiring quote!"*
+</div>
 
 <h3 align="left">🛠 Languages and Tools:</h3> 
 <div align="center"> 
